@@ -1,0 +1,1662 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The Adventures of Pockets</title>
+    <link>https://purplerocketpodcast.com/</link>
+    <description>An award-winning kids podcast full of fun and adventure! Travel the world with twins Sawyer and Suzie using their Grandpa's magical globe, explore the universe aboard the Space Train, fly with fairies, spend the summer with dinosaurs at Camp Dino, and so much more! The Purple Rocket produces exciting audio adventures the whole family can enjoy! Each season is a unique, originally written series, so find a season that sounds fun and dive in starting with episode one. Visit PurpleRocketPodcast.com to learn more.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://purplerocketpodcast.com/wp-content/uploads/2022/11/Pockets-Final-Logo-e1685984603306.png</url>
+      <title>The Adventures of Pockets</title>
+      <link>https://purplerocketpodcast.com/</link>
+    </image>
+    <lastBuildDate>Wed, 17 Sep 2025 20:37:11 +0000</lastBuildDate>
+    <item>
+      <title>Life Episode 30: Nester the Pestering Pumpkin</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Hugo loves pranks, which is why his favorite holiday is Halloween. This year he has the biggest prank ever planned for the occasion. But when his Jack-O-Lantern, Nester, comes alive, Hugo's plans change course.
+
+Have a Helpful Halloween Rocketeers!
+
+Visit Outschool.com/PurpleRocket and use code Purple Rocket to get $15 off your first class!</description>
+      <guid isPermaLink="false">f1f3e2d0-4bf9-11ed-915e-b74fd09c0ca7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3216616841.mp3?updated=1665777714" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Oct 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2151</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 29: Chimpan-Chews Your Words Wisely</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Bethany struggles with her words. She's rude and has a tendency to say things in the worst possible way. But after getting lost in the jungle, finding magical bamboo, and transforming into a monkey, she learns just how powerful her words can be.
+
+Visit Outschool.com/PurpleRocket and use code Purple Rocket to get $15 off your first class!</description>
+      <guid isPermaLink="false">84d7460a-418c-11ed-bc60-f30516db826b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2752446125.mp3?updated=1665178978" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Oct 2022 06:00:00 +0000</pubDate>
+      <itunes:duration>2066</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 16: Payback</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>This week on the season 2 finale of Space Train, Doug and the cadets board the purple rocket and bring their mission to a close.
+
+Visit Outschool.com/PurpleRocket and use code Purple Rocket to get $15 off your first class!</description>
+      <guid isPermaLink="false">d81f27ec-36fb-11ed-8691-77a3a865cf2b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7654252229.mp3?updated=1665178989" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Sep 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>2365</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 15: Golden</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Doug and the cadets battle The Rocketman and his fist bots.</description>
+      <guid isPermaLink="false">6250daa8-2beb-11ed-9017-0f97c9ad2b11</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6838729750.mp3?updated=1664631072" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Sep 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2394</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 14: The Rocketman</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Doug and Lydia come face to face with The Rocketman and learn of his intentions.</description>
+      <guid isPermaLink="false">090b0eb4-1f52-11ed-9ce7-bb81fee0dcda</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6027621139.mp3?updated=1664631080" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Aug 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2297</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 13: Dark Side of the Moon</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>This week on Space Train, Doug and the cadets race to Earth to pick up the last group of prospective students.</description>
+      <guid isPermaLink="false">575f95ec-0f41-11ed-80c7-3f0951e81c26</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8285300681.mp3?updated=1663469078" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Aug 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2334</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 12: An Unnatural Disaster</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Doug and the cadets answer a distress signal coming from the planet Fury. The largest storm of the century is coming and the Furians' pop-up shelters aren't working.</description>
+      <guid isPermaLink="false">cfede948-0508-11ed-bb8e-5758e68085a1</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6424033550.mp3?updated=1663469090" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Jul 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2540</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 12: Beyondra</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Here it is Rocketeers, the season finale of The Adventures of Pockets. Pockets reaches Beyondra and looks for his real parents.</description>
+      <guid isPermaLink="false">cd20fa12-f977-11ec-ac67-bff952c7fa55</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9892511338.mp3?updated=1663469099" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jul 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>2010</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 11: The Rocketman's Lair</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>This week on Space Train, Doug and the cadets follow a tip to the Rocketman's Lair where they try to gather info.</description>
+      <guid isPermaLink="false">1ad06088-ef21-11ec-8150-6b4b48eae1c0</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3763533205.mp3?updated=1660156167" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jun 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>2466</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 11: The Coronation</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Petey and Pockets bring balance to Yondra.</description>
+      <guid isPermaLink="false">91817346-e40b-11ec-8b53-6ff0f6fbd489</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7989891737.mp3?updated=1660156151" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jun 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>2263</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 10: Wish Upon A Star</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>The cadets celebrate Doug's birthday aboard the space train.</description>
+      <guid isPermaLink="false">6f004fd0-d88b-11ec-9987-eb93716ad918</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6475391155.mp3?updated=1657977327" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 May 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2492</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 10: Heroes of Yondra</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>This week on Pockets, Pockets finds himself trapped between Tuga and the king as they battle it out for control over Yondra.</description>
+      <guid isPermaLink="false">0fe9fb4c-cdb2-11ec-8f0f-536bb29071f4</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3224553180.mp3?updated=1657977341" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 May 2022 07:00:00 +0000</pubDate>
+      <itunes:duration>2200</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 9: The Exile</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Doug and the cadets come face to face with the Doctor. Using a tip from their past enemy, they set out to stop the Rocketman as he tries to ambush a luxury space cruiser.</description>
+      <guid isPermaLink="false">10f8b96a-c27c-11ec-85f4-ffaf59c783f4</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3420709222.mp3?updated=1657977355" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Apr 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>3158</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 9: Dungeon Delight</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Pockets and Petey must find a way to escape the dungeon.</description>
+      <guid isPermaLink="false">ccfef72e-b77c-11ec-a805-1f71a4ad25b1</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2120571971.mp3?updated=1657977369" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Apr 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>1992</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 8: It is Read</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>This week on Space Train, Doug and the cadets answer a distress call to pick up a boy named Etho who can read an entire book with the touch of a hand.</description>
+      <guid isPermaLink="false">1f6b512a-ac69-11ec-811f-a72e6b6344e7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9952398049.mp3?updated=1651892580" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Mar 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>2547</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 8: The Pebble Castle</title>
+      <link>https://purplerocketpodcast.com/</link>
+      <description>Pockets, Petey, and Cogline reach the Pebble Castle where they must get past the castle guards. Will they be able to overcome the trolls and shadow knights? Will they finally get an audience with the king? Find out in this week's episode!</description>
+      <guid isPermaLink="false">dfcb7e1e-a164-11ec-b691-cffa576cd50d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3200051944.mp3?updated=1651892590" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>2094</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 7: Mind-Builder</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Season-2-Episode-7-Mind-Builder-e1eudv6</link>
+      <description>Doug and the cadets visit the Academy where they perform a special mission using The Connector and Doug gets some extra attention for his mind-building skills.</description>
+      <guid isPermaLink="false">39dc7770-4c7f-4374-9d65-f36729c9bc42</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3957097403.mp3?updated=1658399541" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Feb 2022 10:00:00 +0000</pubDate>
+      <itunes:duration>2769</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 7: The Wizard of Bogsdeep</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-7-The-Wizard-of-Bogsdeep-e1ebron</link>
+      <description>Pockets, Petey, and Cogline head into Bogsdeep where they visit a wizard who may be able to help them get through the castle gate.</description>
+      <guid isPermaLink="false">e0b99a39-72a1-4d30-b40c-d860878b39a5</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7805046538.mp3?updated=1658399583" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:duration>3085</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 6: Gorf</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Season-2-Episode-6-Gorf-e1djokn</link>
+      <description>Doug and his crew head to Gorf, where Blobby is reunited with his family.</description>
+      <guid isPermaLink="false">8bacde4a-9636-4a4a-9a5f-4feb2d62fdd4</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1630917686.mp3?updated=1658399713" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Jan 2022 09:00:00 +0000</pubDate>
+      <itunes:duration>3512</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 6: The Gizzard</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-6-The-Gizzard-e1d0m6c</link>
+      <description>Pockets and his friends meet Brak, an old Gizzard that has quite the story to tell.</description>
+      <guid isPermaLink="false">21850a9f-d952-4df3-a6a5-d8a90c14d9df</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6279365618.mp3?updated=1658399597" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Jan 2022 09:00:00 +0000</pubDate>
+      <itunes:duration>2636</itunes:duration>
+    </item>
+    <item>
+      <title>Season 2 Episode 5: Brobot</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Season-2-Episode-5-Brobot-e1cd2r7</link>
+      <description>As the cadets make their way back to the academy, Dallas receives a big piece of fan mail...a Brobot.</description>
+      <guid isPermaLink="false">a2c0331c-ebe7-4b30-86a0-a25920ec25f3</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6359515090.mp3?updated=1658399709" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Jan 2022 08:00:00 +0000</pubDate>
+      <itunes:duration>3160</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 5: Snail's Pace</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-5-Snails-Pace-e1btdfu</link>
+      <description>Pockets' journey is slowed down by Slogger Snails.</description>
+      <guid isPermaLink="false">b85b8783-73e3-45cc-8dd0-5db79243b267</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5944381859.mp3?updated=1658400140" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Dec 2021 09:00:00 +0000</pubDate>
+      <itunes:duration>2571</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 4: The Sound of Fusik</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Season-2-Episode-4-The-Sound-of-Fusik-e1b8rr9</link>
+      <description>This week, Doug and the cadets head to Lyner X in search of a musical prodigy that will be the perfect addition to The Academy.</description>
+      <guid isPermaLink="false">7b8ade4a-b576-4a95-a16d-aa3b42a5388e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4860644882.mp3?updated=1658399602" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Dec 2021 09:00:00 +0000</pubDate>
+      <itunes:duration>3046</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 4: The Sleeping Caves</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-4-The-Sleeping-Caves-e1ahqcc</link>
+      <description>Pockets and his friends head into the caves to hide from Tuga and his Gizzards.</description>
+      <guid isPermaLink="false">cc89e20c-abc1-454d-8c25-98d8c96ebfb8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7329602520.mp3?updated=1658399555" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Nov 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2812</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 3: The Big Sniff</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Season-2-Episode-3-The-Big-Sniff-e19r7v8</link>
+      <description>Doug and his crew of Wanderers head to the planet Schnauzheim where they must recruit a gifted boy named Broderick, also known as The Big Sniff.</description>
+      <guid isPermaLink="false">0a412248-bf3c-47e7-93d3-2a46b7a485d5</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8742224936.mp3?updated=1658400171" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Nov 2021 12:00:00 +0000</pubDate>
+      <itunes:duration>3065</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 3: Big Bad Bock Bock</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-3-Big-Bad-Bock-Bock-e1966bk</link>
+      <description>Pockets, Petey, and Cogline take a shortcut and end up confronting a giant chicken named Big Bad Bock Bock. Bock Bock will only let them pass if Pockets can defeat him in a Bock Off.</description>
+      <guid isPermaLink="false">6847d93a-a676-46b4-8c65-0bf3feeac1e5</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2995356436.mp3?updated=1658399541" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Oct 2021 07:00:00 +0000</pubDate>
+      <itunes:duration>2920</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 28: The Candy Gobbler: A Halloween Special</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Candy-Gobbler-A-Halloween-Special-e18ptr0</link>
+      <description>Here it is Rocketeers! The fully illustrated Halloween special! The Novel Effect Team and I have joined forces to bring you this interactive adventure. After listening to this episode, be sure to download the free Novel Effect App below and open The Candy Gobbler. As you read the ebook in-app you will see all the fun illustrations and the music/sound effects will automatically synchronize to your reading! It's amazing! Enjoy! And Happy Halloween! The Candy Gobbler: The last thing Kevin wants to do on Halloween is take his little sister Gracie trick-or-treating. So, he tries to spook Gracie with the tale of the Candy Gobbler, a mischievous candy bandit that goes around stealing kids' candy. But it isn't long before Kevin realizes that his story isn't just a story after all. Click here to download the free Novel Effect App: https://noveleffect.page.link/PsKZV8pRRYJTLYnH9</description>
+      <guid isPermaLink="false">2c37a1f7-74ca-46ac-88f1-f4c019558580</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2730479298.mp3?updated=1658399535" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Oct 2021 18:35:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 2: The Academy</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Season-2-Episode-2-The-Academy-e17rkr1</link>
+      <description>This week on Space Train, the cadets tour the rebuilt Academy and Doug is asked to rebuild the Connector.</description>
+      <guid isPermaLink="false">838384f3-d2b4-431e-8164-8a4b08b2bf01</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5525703007.mp3?updated=1658399561" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Sep 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2514</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 2: Stuck in Cogtown</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-2-Stuck-in-Cogtown-e1794b1</link>
+      <description>Pockets and Petey reach the land of Yondra where they learn of an urgent quest for the king and stumble upon Cogtown, a village in desperate need of help.</description>
+      <guid isPermaLink="false">93861fc5-ff61-40a9-9f63-035232206f26</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4466106181.mp3?updated=1658400170" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Sep 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>3068</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Season 2 Episode 1: Roll Call</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Season-2-Episode-1-Roll-Call-e16kt76</link>
+      <description>Here it is, Rocketeers, the second season of Space Train! In this week's episode, Doug and the cadets go on an important mission to retrieve the records they will need to start the Academy of Wanderers.</description>
+      <guid isPermaLink="false">f5dc60a9-99f4-45ee-8d5f-10cc015cf7ad</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5261186670.mp3?updated=1658399584" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Aug 2021 11:00:00 +0000</pubDate>
+      <itunes:duration>2937</itunes:duration>
+    </item>
+    <item>
+      <title>The Adventures of Pockets Episode 1: The Giant Turtle Shell</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Adventures-of-Pockets-Episode-1-The-Giant-Turtle-Shell-e15u2ks</link>
+      <description>The Purple Rocket Podcast Presents...The Adventures of Pockets! The only thing Pockets loves as much as his pocket-covered pajamas is an exciting adventure. Every morning he fills his pockets with trinkets in case they come in handy. But he couldn't imagine how handy they'd become until he's washed out to sea and finds himself on the shores of Yondra.</description>
+      <guid isPermaLink="false">d77feb40-0943-45f1-930b-6e9dc5163e4d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9163400109.mp3?updated=1658400175" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Aug 2021 09:00:00 +0000</pubDate>
+      <itunes:duration>2978</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 17: The Gathering Hut</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-17-The-Gathering-Hut-e1587p1</link>
+      <description>During their last evening at Camp Dino, Bo and the rest of the kids leave their mark on the Gathering Hut.</description>
+      <guid isPermaLink="false">688f3ba7-8c56-4902-9bc9-409d96c0a2db</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3221095969.mp3?updated=1658399547" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Aug 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2548</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 16: Hear Us Roar</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-16-Hear-Us-Roar-e14kbt5</link>
+      <description>Bo and the rest of Camp Dino take on the Bakuza as they try to escape with their dinosaurs.</description>
+      <guid isPermaLink="false">585190b2-cb17-403c-8066-88bc6edd641d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3190428342.mp3?updated=1658399571" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jul 2021 07:00:00 +0000</pubDate>
+      <itunes:duration>2757</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 15: Camp Bakuza</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-15-Camp-Bakuza-e13raqj</link>
+      <description>Bo and the rest of Camp Dino are taken prisoner and led to Camp Bakuza, where the kids make a huge discovery.</description>
+      <guid isPermaLink="false">4ff060d0-3a5f-437f-836e-8a980732b06d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7988892069.mp3?updated=1658400158" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Jul 2021 07:00:00 +0000</pubDate>
+      <itunes:duration>2767</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 14: The Tournament</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-14-The-Tournament-e13224d</link>
+      <description>Bo and the rest of the kids put their dinos to the test in the final tournament. Get comfortable, Rocketeers. This is the longest PRP episode to date!</description>
+      <guid isPermaLink="false">c3e01320-e8b5-45aa-be2a-87c35ad70c5d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3511638513.mp3?updated=1658399595" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Jun 2021 10:00:00 +0000</pubDate>
+      <itunes:duration>3676</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 13: Tuku's Stash</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-13-Tukus-Stash-e127i40</link>
+      <description>This week on Camp Dino, Bo is on a mission to track down Tuku in order to get their stuff back and find out more about the Bakuza.</description>
+      <guid isPermaLink="false">e798ba77-3f91-4f2d-b70e-ada2c2febd40</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9580910714.mp3?updated=1658399592" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Jun 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2992</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 12: Bag of Secrets</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-12-Bag-of-Secrets-e11h3e8</link>
+      <description>Kirby and the kids arrive back at Camp and check in with Ma and Pa. Tensions are high after the latest events in the jungle, but Bo, Zada, and Gavin try to unwind with another visit to the Oasis.</description>
+      <guid isPermaLink="false">4c0201ac-1743-4090-be2f-7db99445c73f</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1358292640.mp3?updated=1658399533" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 May 2021 23:50:30 +0000</pubDate>
+      <itunes:duration>2813</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 11: The Search</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-11-The-Search-e10h5ek</link>
+      <description>Bo, Zada, and Kirby venture into the jungle in search of Gavin.</description>
+      <guid isPermaLink="false">42289dfe-4d49-4c9d-b36c-49f1e5723d2a</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6389062535.mp3?updated=1658400193" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 May 2021 07:00:00 +0000</pubDate>
+      <itunes:duration>3119</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 27: A Girl Called Zebra</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-27-A-Girl-Called-Zebra-evj5e7</link>
+      <description>For this week's episode of Life, I've teamed up with Brad and Betsy Peterson from BrighterFun.com to bring you a story about feelings. Recognizing and understanding our emotions helps us better empathize with those around us. Brad and Betsy have started a company that creates games and books that help kids and families share their feelings. They are offering our listeners a 30% discount when you use the promo code "feelings" at checkout. So visit BrighterFun.com to support their cause! Our family really enjoyed their Animal Chat Game and their new book, "Happy Puppy, Angry Tiger". 
+
+
+
+In this episode, a special girl from the planet Blander5 finds that her power to glow feelings is at odds with her people's strict code of not expressing emotion. But when she hears that there's a Feeling Crystal somewhere on the planet, she sets off on a quest that will ultimately help her better understand her superpower and its effect on those around her. 
+
+
+
+Huge thank you to Betsy Peterson from Brighter Fun for her awesome artwork!</description>
+      <guid isPermaLink="false">497ea18d-5b27-4414-8828-7ea233233abf</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2741832905.mp3?updated=1658400110" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Apr 2021 11:00:00 +0000</pubDate>
+      <itunes:duration>2592</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 10: Kirby on the Move</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-10-Kirby-on-the-Move-eukkqj</link>
+      <description>Bo struggles to track down Kirby in his quest for answers. Click here to listen:</description>
+      <guid isPermaLink="false">3d133e0d-0283-4a1e-812f-6e37d3558f3c</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1230506383.mp3?updated=1658399753" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Apr 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>3013</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 9: Survival of the Thinnest</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-9-Survival-of-the-Thinnest-etlses</link>
+      <description>Bo tries to convince Zada to go looking for Gavin as they have their first class in The Cavern and endure another Wilderness Survival Class with Dr. Lovekin.</description>
+      <guid isPermaLink="false">de29339b-6c52-4f62-b6b0-c34985105b55</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4196077884.mp3?updated=1658400169" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Mar 2021 07:00:00 +0000</pubDate>
+      <itunes:duration>2897</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 8: The Watchtower</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-8-The-Watchtower-esg8qv</link>
+      <description>This week on Camp Dino, Bo and Zada practice training their dinosaurs and stumble upon more evidence of the mysterious Blue.</description>
+      <guid isPermaLink="false">25e96111-1deb-4845-9349-d7036d05c12e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6490632006.mp3?updated=1658400183" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Mar 2021 07:00:00 +0000</pubDate>
+      <itunes:duration>2796</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 7: Trade Off</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-7-Trade-Off-er64kn</link>
+      <description>Bo and Zada are pushed to their limits as they take their dinos through Dr. Bronson's treacherous obstacle course, The Course of Tears.</description>
+      <guid isPermaLink="false">8b84a2e6-f48d-4448-91e0-710abe6e26c7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8804080296.mp3?updated=1658399607" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Mar 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2913</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 6: Echo</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-6-Echo-eqcij1</link>
+      <description>It's relaxation day at Camp Dino! Bo, Gavin, and Zada get to go swimming at the Oasis and then head to their first meditation class with Dr. Sky. But 'relaxing' is the last word Bo would use to describe the day.</description>
+      <guid isPermaLink="false">37827fb0-ee32-4b3c-ad0e-ecf41602255e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9495511174.mp3?updated=1658399612" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Feb 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2942</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 5: Scoot, Toot, Shoot</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-5-Scoot--Toot--Shoot-epn67c</link>
+      <description>Zada tries to figure out how to get a handle on her triplets as the kids go to their first class in The Arena.</description>
+      <guid isPermaLink="false">17f86bf7-4c08-49c2-ac38-a45ba038f905</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4068131073.mp3?updated=1658400161" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Feb 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2703</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 4: And Then There Were Three</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-4-And-Then-There-Were-Three-ep3qkk</link>
+      <description>Bo deals with the fallout from Buck's fight with the raptor and Zada finds out what kind of dinosaur she has!</description>
+      <guid isPermaLink="false">1f2356c9-9680-435e-b791-e6f95271ee96</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4440536299.mp3?updated=1658400146" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Jan 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2440</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 3: Chute to Shanty</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-3-Chute-to-Shanty-eocpq8</link>
+      <description>This week on Camp Dino, Bo continues to struggle with Buck as they take the Chute to their first Wilderness Survival Class at the Shanty.</description>
+      <guid isPermaLink="false">c99cd499-19df-4e7a-81b5-9b47181191b8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1150686971.mp3?updated=1658400170" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jan 2021 08:00:00 +0000</pubDate>
+      <itunes:duration>2703</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 2: Hatched</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-2-Hatched-eo30uv</link>
+      <description>Bo spends his second day at camp searching for his hatched dinosaur.</description>
+      <guid isPermaLink="false">461ea207-7123-414b-bb90-f85d72dd0695</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8341958638.mp3?updated=1658400170" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Dec 2020 15:55:11 +0000</pubDate>
+      <itunes:duration>2807</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 26: A Merry Little Christmas featuring Mr. Eric of What If World</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-26-A-Merry-Little-Christmas-featuring-Mr--Eric-of-What-If-World-encfsl</link>
+      <description>In a truly unique holiday special, Greg Webb and Mr. Eric from What If World team up to tell this fun tale of the Little Family. The Littles are a family of tiny people that live in a burrow under the Dawson's pine tree. Christmas is looking bleak this year as a snooty cat named Snowflake moves in and fog threatens to hide the town from Santa. Will the Littles be able to save Christmas? Find out in "A Merry Little Christmas". This story ties in directly to Mr. Eric's What Ifmas special on the What If World podcast, so be sure to head on over to What If World to hear what happens next to Snowflake. Click here to listen: https://podcasts.apple.com/us/podcast/what-if-world-stories-for-kids/id1164278826</description>
+      <guid isPermaLink="false">44a25266-ea50-4c28-ae88-c6af0c56c65f</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5382260277.mp3?updated=1658399935" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Dec 2020 14:21:03 +0000</pubDate>
+      <itunes:duration>2501</itunes:duration>
+    </item>
+    <item>
+      <title>CAMP DINO Episode 1: Welcome to Camp Dino</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/CAMP-DINO-Episode-1-Welcome-to-Camp-Dino-emokfh</link>
+      <description>Bo is a homeschooler who's just getting over his obsessive dinosaur phase. But when his parents send him to a dinosaur summer camp in the middle of the jungle his world is turned upside down. At CAMP DINO you don't dig for fake fossils or sit through boring classes, you RAISE your own dinosaur from an egg. Join Bo and his friends on an unforgettable adventure into the world of dinosaurs!</description>
+      <guid isPermaLink="false">d5787edf-7d0f-40c2-82e4-af89e9df9f79</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3732975167.mp3?updated=1658400203" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Nov 2020 08:00:00 +0000</pubDate>
+      <itunes:duration>3398</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 12: The Breakthrough</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-12-The-Breakthrough-em7vlp</link>
+      <description>It's the Digger finale! In the final episode of the series, Dillon and his friends try to keep the Drum Rock key away from Kai as the war wages on between the Risers and the Surfacers.</description>
+      <guid isPermaLink="false">fa5eeb0e-cc4b-4f1b-9871-2986cb77da88</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6089843168.mp3?updated=1658399690" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2020 15:35:18 +0000</pubDate>
+      <itunes:duration>2385</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 13: Timespinners</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-13-Timespinners-eligd8</link>
+      <description>It's the season 2 finale of Grandpa's Globe! This week, Sawyer and Suzie team up with the other Globetrotters to confront Captain Drake and his Black Feather crew as they try to get to the Ice Dial in Antarctica.</description>
+      <guid isPermaLink="false">cb9931ee-8ea5-4a7c-9ac5-4a1ed9ef9d9b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7834950601.mp3?updated=1658399733" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2020 10:00:00 +0000</pubDate>
+      <itunes:duration>2953</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 11: AREA 51</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-11-AREA-51-ektii0</link>
+      <description>Dillon and his friends discover some surprises as they try to find a way out of Area 51.</description>
+      <guid isPermaLink="false">9892e9f3-ffd9-4700-88b9-e467bc035555</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8884703933.mp3?updated=1658400155" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2020 07:00:00 +0000</pubDate>
+      <itunes:duration>2620</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 12: The Globetrotter Society</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-12-The-Globetrotter-Society-ek7cvm</link>
+      <description>Sawyer and Suzie call to order the first meeting of the Globetrotter Society. But when they try to start planning out how to defeat the Black Feather, they hit a snag.</description>
+      <guid isPermaLink="false">97f2b932-7385-4ece-a592-fcec05be731f</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8920100910.mp3?updated=1658400148" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Sep 2020 07:00:00 +0000</pubDate>
+      <itunes:duration>2365</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 10: The Knower Volcanoes</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-10-The-Knower-Volcanoes-ejlto1</link>
+      <description>Dillon and his friends make it to the Knower Volcanoes. Will they finally meet the Knowers and find a way to the surface? Find out in Episode 10: The Knower Volcanoes!</description>
+      <guid isPermaLink="false">176e75cb-b12b-4b96-a52d-b3e368c69ce7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1186977595.mp3?updated=1658400180" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2020 14:25:37 +0000</pubDate>
+      <itunes:duration>2878</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 11: Scotland and the Pipes of Thunder</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-11-Scotland-and-the-Pipes-of-Thunder-eiq359</link>
+      <description>Grandpa, the twins, and their new friend head to Scotland where they must find the last treasure Captain Drake is after.</description>
+      <guid isPermaLink="false">b34196a9-33a1-4fda-9670-098a84e6a697</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6744559449.mp3?updated=1658399577" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Aug 2020 07:00:00 +0000</pubDate>
+      <itunes:duration>2680</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 9: The Lower Ones</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-9-The-Lower-Ones-ei8tik</link>
+      <description>While Kai continues to prepare the Risers to surface, Dillon and the crew reach the volcano foothills.</description>
+      <guid isPermaLink="false">04bd7f4c-3134-49b8-b9cd-f93a34929eaa</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7367791546.mp3?updated=1658399626" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Aug 2020 13:20:12 +0000</pubDate>
+      <itunes:duration>2676</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 10: Saudi Arabia and the Lantern of Lost Souls</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-10-Saudi-Arabia-and-the-Lantern-of-Lost-Souls-ehkc46</link>
+      <description>Donte and the twins head to Saudi Arabia to try and find the Lantern of Lost Souls before Captain Drake can get to it.</description>
+      <guid isPermaLink="false">afcc241f-ba4b-44b4-bcc8-c27fa02bc334</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9342387030.mp3?updated=1658400230" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2020 15:01:59 +0000</pubDate>
+      <itunes:duration>3299</itunes:duration>
+    </item>
+    <item>
+      <title>IMPORTANT ANNOUNCEMENT: The Purple Rocket is now on Patreon and other News</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/IMPORTANT-ANNOUNCEMENT-The-Purple-Rocket-is-now-on-Patreon-and-other-News-eh3rbp</link>
+      <description>Exciting things are on the horizon for the Purple Rocket Podcast! Lend your support by visiting https://www.patreon.com/PurpleRocketPodcast</description>
+      <guid isPermaLink="false">8ed823ce-0776-4827-bf7a-d4cd391add78</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1595876202.mp3?updated=1658399505" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2020 21:31:38 +0000</pubDate>
+      <itunes:duration>467</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 8: Fishing for Answers</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-8-Fishing-for-Answers-eh0adj</link>
+      <description>Dillon and his friends are boarded by the Union ship and find that their unexpected guest not only has answers to their questions, but can teach them how to Sky Fish.</description>
+      <guid isPermaLink="false">7e09f24d-14c4-4e1c-bcee-e05a531cc0ca</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1771894656.mp3?updated=1658400185" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2020 14:48:47 +0000</pubDate>
+      <itunes:duration>2862</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 9: Argentina and the Treasure of Captain Drake Part II</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-9-Argentina-and-the-Treasure-of-Captain-Drake-Part-II-egrc1q</link>
+      <description>Grandpa and Suzie try to figure out how to unfreeze Sawyer while Donte takes on the notorious Captain Drake. Will they make it off Captain Drake's ships? Find out in this week's episode of Grandpa's Globe!</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/78a8b5f2-869f-5f5c-b780-5fc331823f59</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2159125255.mp3?updated=1658399571" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2020 07:00:00 +0000</pubDate>
+      <itunes:duration>1862</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 8: Argentina and the Treasure of Captain Drake Part I</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-8-Argentina-and-the-Treasure-of-Captain-Drake-Part-I-egrc49</link>
+      <description>This week on Grandpa's Globe, Grandpa, Donte, and the twins head to Argentina where they board Captain Drake's pirate ships and try to find a way to stop him from getting away with the Globetrotters' magical artifacts. Will they succeed? Find out in Episode 8: Argentina and the Treasure of Captain Drake Part I</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/0dfa958a-d34f-553c-933a-acd4ace93856</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8744178307.mp3?updated=1658400117" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2020 07:00:00 +0000</pubDate>
+      <itunes:duration>2127</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 25: Lilly and the Bye Bye Bad Glove</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-25-Lilly-and-the-Bye-Bye-Bad-Glove-egrc58</link>
+      <description>We have a very special episode of Life for you this week. My daughter Aurora voiced the main character of this story and she did such an awesome job! She plays Lilly, a girl who's sick of dealing with all the challenges in her day. But when she finds a magical glove that allows her to snap past all the hard stuff, she learns why it's important to work through life's obstacles.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/614265c2-87cd-537c-a571-b3daffada732</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6060373361.mp3?updated=1658399593" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jun 2020 13:31:19 +0000</pubDate>
+      <itunes:duration>2385</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 7: The Mirage</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-7-The-Mirage-egrc3r</link>
+      <description>With the airship repaired, Dillon and his friends reach land and must pass through the mysterious city of Mirage. There's only one problem - the only way they can see the city and its inhabitants is out of the corner of their eye.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/ca09592f-8684-5aae-908b-689922ff2dd1</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2936158449.mp3?updated=1658399601" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2020 14:04:38 +0000</pubDate>
+      <itunes:duration>2529</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 7: Zealous in New Zealand</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-7-Zealous-in-New-Zealand-egscvd</link>
+      <description>Using their new magical artifacts, Grandpa and the twins explore the beautiful country of New Zealand and try to solve another mystery. Theme music by Kevin Macleod – Incompetech.com</description>
+      <guid isPermaLink="false">8ed8a5f7-ba88-4c08-a69c-80cebebf7a18</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7797984375.mp3?updated=1658400157" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2425</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 6: The Boiling Sea</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-6-The-Boiling-Sea-egrc31</link>
+      <description>Dive deep in this week's episode of Digger! Dillon and his friends venture into the Boiling Sea to hide from the pursuing Union Soldiers. Tension builds as they try to figure out how to fix the ship and get as far away from Rion as possible. Ominous music by Kevin Macleod - "Cyrpto", Action Music by 2BStudio - "Pirate Adventure"</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/03c7d73c-a933-5cf5-adf1-cfbc584b0d3e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8497764036.mp3?updated=1658399668" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2020 14:52:31 +0000</pubDate>
+      <itunes:duration>2624</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 6: Ukraine in the Membrane</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-6-Ukraine-in-the-Membrane-egrc4e</link>
+      <description>Grandpa and the twins take his powerful new wheelchair for a test drive in Ukraine. Find out what cool gadgets they discover in this week's episode of Grandpa's Globe!
+Theme Song - Call to Adventure by Kevin MacleodParty Music - Dj Quads - SoulSpy Music by Catalin Marin (www.catalinmarin.com)</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/c55bada6-1483-5b62-b36d-ead8bd5d5735</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3594531374.mp3?updated=1658399600" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Apr 2020 12:39:31 +0000</pubDate>
+      <itunes:duration>2148</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 24: Pet Beans</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-24-Pet-Beans-egrc5i</link>
+      <description>This week on Life, a new invention has taken the little mountain town of Doogleheim by storm - Pet Beans! These miraculous little beans turn into real pets when thrown in water. Walter loves animals and has always wanted a pet, but things get a little out of hand when he dumps his whole box of Pet Beans into the water. Walter's about to learn what it means to be generous, kind, and honest. Theme song by Kevin Macleod. Other songs by the "Blue Dot Sessions" - "Silver Lanyard", "Entwined Oddity", and "Donnalee"</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/7469035e-9a95-5ffc-8ed9-cd7ce3b6c3be</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5099353195.mp3?updated=1658399588" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2020 14:47:17 +0000</pubDate>
+      <itunes:duration>2082</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 5: Kai's Castle</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-5-Kais-Castle-egrc3b</link>
+      <description>Dillon and his friends are taken to Kai, the leader of the Risers where they learn about his plans to take over the surface and their role in it.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/aa1b38a3-0f0a-5fe7-8d7e-983ca538e14d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2140636298.mp3?updated=1658399625" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2020 12:40:47 +0000</pubDate>
+      <itunes:duration>3016</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 5: Nigeria and the Brass Compass Part II</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-5-Nigeria-and-the-Brass-Compass-Part-II-egrc37</link>
+      <description>It's here Rocketeers - part two of Nigeria and the Brass Compass! Will Sawyer and Suzie find Gabriella and rescue her from the Black Feather? Find out in this week's episode! Music by Kevin Macleod.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/b620fa82-ba06-5229-ad7b-29dd537f86e8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6589366998.mp3?updated=1658400072" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Mar 2020 14:40:13 +0000</pubDate>
+      <itunes:duration>1887</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 4: Nigeria and the Brass Compass Part I</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-4-Nigeria-and-the-Brass-Compass-Part-I-egscnh</link>
+      <description>Sawyer and Suzie follow the magical brass compass to Nigeria, where they start their search for Gabriella, a Globetrotter who has answers about the mysterious Globetrotter Society. But the twins’ mission gets complicated when they cross paths with The Black Feather. Theme music by Kevin Macleod – Incompetech.com. Songs by Kevin Macleod – “Call to Adventure”, “Sneaky Snitch” and “Dubakupado”</description>
+      <guid isPermaLink="false">05317d75-971c-4eaf-874d-cd6491541365</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5181170703.mp3?updated=1658400133" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Feb 2020 17:00:00 +0000</pubDate>
+      <itunes:duration>2077</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 4: The Garbage Lines</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-4-The-Garbage-Lines-egrc5a</link>
+      <description>Dillon and his friends start their journey to the Outer Rim by braving the treacherous garbage lines.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/b145ade9-803b-5c67-af39-378e5f0e0fc2</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1506094684.mp3?updated=1658400166" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Feb 2020 13:42:10 +0000</pubDate>
+      <itunes:duration>2334</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 3: No Way Norway</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-3-No-Way-Norway-egrc41</link>
+      <description>This week, on our longest episode of Grandpa's Globe yet, Grandpa and the twins visit Norway. Grandpa is having back trouble again, so he decides to take the kids to a Norwegian spa. From there they explore a beautiful fjord and even help the Sami people rescue their herd of reindeer.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/e7902e76-f42e-50ce-96b8-75bd69d4e2d5</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9128601956.mp3?updated=1658400179" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jan 2020 14:39:41 +0000</pubDate>
+      <itunes:duration>2630</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 3: Greeb's Hut</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-3-Greebs-Hut-egrc1v</link>
+      <description>Mora brings Dillon and his friends into her home and introduces them to her father, Greeb, who tells the kids about their precarious situation in UnderEarth.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/34e239d2-6efc-5644-aef4-37400f85e4fa</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4957879792.mp3?updated=1658400140" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jan 2020 14:23:05 +0000</pubDate>
+      <itunes:duration>1665</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 2: The UnderEarth</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-2-The-UnderEarth-egrc1c</link>
+      <description>Dillon and Mac drop down into the UnderEarth and quickly realize that this new place they've discovered is very different from home. They meet Mora, a girl who is unlike anyone they'd ever seen.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/ca64e501-517a-58b7-920d-09fe5b7ee157</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9061146755.mp3?updated=1658399615" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Dec 2019 13:52:58 +0000</pubDate>
+      <itunes:duration>1485</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 2: The Christmas Mission (A Nativity Story)</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-2-The-Christmas-Mission-A-Nativity-Story-egrc2j</link>
+      <description>Get in the holiday spirit with this week's Grandpa's Globe Christmas Special! Grandpa, Sawyer, and Suzie are whisked away on a very special mission to the North Pole on Christmas Eve. Santa has slept in and it's up to the three of them to deliver presents all over the world. ****Disclaimer**** This is a nativity story that covers the birth of Christ. Imagine “A Charlie Brown Christmas” Grandpa’s Globe Style.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/grandpas-globe-season-2-episode-2-the-christmas-mission-04d5b7001f94a8b4af1b1930a7d94f43</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2087350931.mp3?updated=1658400150" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Dec 2019 13:55:26 +0000</pubDate>
+      <itunes:duration>2000</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 23: Tony's Gobbly Good Thanksgiving</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-23-Tonys-Gobbly-Good-Thanksgiving-egrc11</link>
+      <description>Life on the Culver family farm is shaken up with the arrival of a very snooty turkey named Tony. When Tony finds himself in a bind, he learns what it means to be truly grateful. Turns out - we're all lucky turkeys! Happy Thanksgiving everyone!</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/life-episode-23-tonys-gobbly-good-thanksgiving-10d5ef8faabdb39e439a6c8e87c6c491</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2806892950.mp3?updated=1658399633" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Nov 2019 13:28:30 +0000</pubDate>
+      <itunes:duration>1612</itunes:duration>
+    </item>
+    <item>
+      <title>Digger Episode 1: Buried Treasure</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Digger-Episode-1-Buried-Treasure-egrc38</link>
+      <description>Dillon and his mom have fallen on hard times. So when he hears a rumor about a past principal burying treasure under the baseball field at school, he decides to go searching for it. But when Dillon and his friend Mac start digging around, they soon find much more than a chest full of treasure - they discover an underground world.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/digger-episode-1-buried-treasure-a3992a37df912ef424dfa4f7aae18d86</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4138045859.mp3?updated=1658399820" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Nov 2019 13:22:26 +0000</pubDate>
+      <itunes:duration>2195</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Season 2 Episode 1: All Thai'd Up</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Season-2-Episode-1-All-Thaid-Up-egrc4m</link>
+      <description>Grandpa's Globe is back with our Season 2 premiere, "All Thai'd Up"! In this episode of Grandpa's Globe, Grandpa and the twins go on an exciting mission to Thailand where they must solve the mystery of the missing statues.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/grandpas-globe-season-2-episode-1-all-thaid-up-c1a59fe944cac0f36c4b2b64dc794f61</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3951301583.mp3?updated=1658399706" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Oct 2019 13:14:33 +0000</pubDate>
+      <itunes:duration>2258</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 22: Winston's Book of Wizardry</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-22-Winstons-Book-of-Wizardry-egrc3f</link>
+      <description>If you are a Harry Potter fan, something tells me you'll enjoy this year's Halloween Special: Winston's Book of Wizardry. While Winston waited for his little sister to finish getting ready to go trick or treating, he did something he doesn't normally do - he cracked open a book. In a flash of light the book sucked him into it and sent him on an adventure through the magical world of Berry Cotter. Transformed into the hero of the story, Winston, or Berry Cotter as he's now known, must defeat Lord Walmort and save the students of Pigwarts. Winston's about to realize just how powerful reading really is! Big thank you to Kitty Felde of the Book Club for Kids Podcast and her friends for helping me tell this story! You can find Kitty's podcasts by visiting http://www.bookclubforkids.org and https://www.kittyfelde.com. Music - "Magical Glade" by Soul Candle and "The Alchemist Tower" by Brandon and Derek Fiechter</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/life-episode-22-winstons-book-of-wizardry-c07ff853400caca023f1ee9fee0c31c8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9648616516.mp3?updated=1658400193" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Oct 2019 13:09:40 +0000</pubDate>
+      <itunes:duration>2334</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 12: The Mystery Booth</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-12-The-Mystery-Booth-egrc0s</link>
+      <description>We've reached the final episode of Winnie and the Pixienauts! Find out what the Pixienauts have planned for the future with Episode 12: The Mystery Booth. Fiddle Music - Rousseau's Dream Fiddle by Ricky Valadez.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-12-the-mystery-booth-9df97ce6d0d33681e951522ae1a455d8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3565553280.mp3?updated=1658399961" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Sep 2019 13:31:44 +0000</pubDate>
+      <itunes:duration>1213</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 11: Fairygrounds</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-11-Fairygrounds-egrc53</link>
+      <description>This week, Winnie and her crew face off against the Lunas in an epic battle at the fair. Will Winnie get the Orchid Queen back to her clan? Will they save the fairies before Rudy can turn them into a zoo exhibit? Find out in Episode 11: Fairygrounds.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-11-fairygrounds-59e56c97e7d2cfc33a06acdfdcc4ff81</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2079357110.mp3?updated=1658400152" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Sep 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>1789</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 10: Pixienauts Unite!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-10-Pixienauts-Unite-egrc1a</link>
+      <description>Winnie, Jack, and Lou unite to rescue the Orchid Queen. But the mission doesn't exactly go according to plan and the Pixienauts find themselves in a dangerous situation.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-10-pixienauts-unite-b90fb0201813c4c1f4fb1e81c826c723</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2105611334.mp3?updated=1658400149" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Aug 2019 13:43:04 +0000</pubDate>
+      <itunes:duration>1718</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 21: The U.S.S. Boredom</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-21-The-U-S-S--Boredom-egrc1m</link>
+      <description>Do you have a kid who's struggling with screen addiction? Check out this fun space adventure that's all about the consequences of too much screen time! Jade and the other orphans aboard the spaceship, the U.S.S.B, spend all their time staring at screens and playing video games. But after their ship is attacked they're forced to evacuate and land on a remote alien world. Now, Jade and her best friend must learn how to not only cope without their screens but survive. Big thanks to Rhea from the podcast, "Little Stories for Tiny People" for her help telling this story!</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/life-episode-21-the-uss-boredom-1e07a6b403009a43c737819e7f8e3fdd</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2820358250.mp3?updated=1658400177" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Aug 2019 19:54:30 +0000</pubDate>
+      <itunes:duration>2125</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 9: A Team Divided</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-9-A-Team-Divided-egrc0k</link>
+      <description>Winnie gives Jack a piece of her mind for not showing up to the Luna mission, the group assembles at the Mystery Booth to decide what to do next and Winnie and Lou make a shocking discovery about their grandma.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-9-a-team-divided-abc7f7a46c56b31fcab972d48ba72f93</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2669362879.mp3?updated=1658399731" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jul 2019 12:32:22 +0000</pubDate>
+      <itunes:duration>1566</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 8: For the Queen</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-8-For-the-Queen-egrc3m</link>
+      <description>Winnie sets out to rescue the Orchid Queen and comes face to face with the bat-winged Lunas. But the mission goes south and Winnie is left with even more questions than before.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-8-for-the-queen-467bf2dbf794dbb56da03042a1a2ea09</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9994955797.mp3?updated=1658400154" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jul 2019 13:01:39 +0000</pubDate>
+      <itunes:duration>1768</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 20: The Emperor of Empathy and the Journey Through Splash Pad City</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-20-The-Emperor-of-Empathy-and-the-Journey-Through-Splash-Pad-City-egrc21</link>
+      <description>Porter is having a hard time understanding the feelings of others. But that all changes when a giant bucket at the local splash pad dumps water on him and transports him to Splash Pad City. Join him on his journey through a land full of jumping geysers, waterslides and opportunities to show empathy.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/life-episode-20-the-emperor-of-empathy-and-the-journey-through-splash-pad-city-88424df5abb36a0768278b99d0b2d6c5</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1212167062.mp3?updated=1658399839" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2019 12:51:00 +0000</pubDate>
+      <itunes:duration>2082</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 7: Feeding the Fire</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-7-Feeding-the-Fire-egrc14</link>
+      <description>Jack keeps his promise to Winnie and Winnie prepares for their mission by learning more about fairies from Oliver.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-7-feeding-the-fire-bb3958dedeae81ea78f0d54f61080a5e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4868658581.mp3?updated=1658399785" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Jun 2019 12:58:28 +0000</pubDate>
+      <itunes:duration>1414</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 6: The Pixienauts</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-6-The-Pixienauts-egrc1j</link>
+      <description>Winnie, Jack and Oliver head back to the fair to recruit Dr. Theo Knight for their quest to save the orchid queen. But the fair's owner, Rudy, knows that Winnie disappeared near the carousel and has everyone looking for her. Will they be able to meet up and make plans or will they get caught? Find out in Episode 6: The Pixienauts.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-6-the-pixienauts-cbbdd0a1f6e8e359fd5c749eef92b780</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2740573641.mp3?updated=1658400178" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 May 2019 11:30:00 +0000</pubDate>
+      <itunes:duration>2050</itunes:duration>
+    </item>
+    <item>
+      <title>Knights of Spatula Episode 6: Good Neighbors</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Knights-of-Spatula-Episode-6-Good-Neighbors-egrc0f</link>
+      <description>Just when the Knights of Spatula think their situation couldn't get any worse, they discover that King Karl has hired a new crew of knights to protect his kingdom, the Knights of Ladle. As the competition heats up, the Knights of Spatula must prove that they are the only ones worthy of protecting Spatulot.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/knights-of-spatula-episode-6-good-neighbors-716d4fd284d905b91141f5725b4e1ee0</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6661493284.mp3?updated=1658400104" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 May 2019 12:48:15 +0000</pubDate>
+      <itunes:duration>1256</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 5: The Deal</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-5-The-Deal-egrc29</link>
+      <description>Winnie officially meets the fairy guard from the fair. She learns that his clan is in trouble and that they need her help rescuing their captured queen. Winnie tries to figure out a good way to break the news to her best friend Jack and recruit him for the mission.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-5-the-deal-9ceecff8681e51a7cf63f821099ad32a</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2455625220.mp3?updated=1658400181" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Apr 2019 13:04:01 +0000</pubDate>
+      <itunes:duration>2138</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 19: My Homework Ate Me - A Cautionary Tale of Procrastination</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-19-My-Homework-Ate-Me---A-Cautionary-Tale-of-Procrastination-egrc92</link>
+      <description>Ben can't stand book reports, which is why when he's assigned one towards the end of the school year he plans on putting it off til the very last minute. He'd much rather be out in the dirt field by his house, finishing his clay maze masterpiece. But when Ben's book comes alive and starts nagging him about the looming deadline, he learns a valuable lesson about the perils of procrastination.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/life-episode-19-my-homework-ate-me-a-cautionary-tale-of-procrastination-0bcd98ce4284614fc4bf995c800d7a1b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3344314393.mp3?updated=1658400184" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Apr 2019 12:31:17 +0000</pubDate>
+      <itunes:duration>2118</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 4: The Souvenir</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-4-The-Souvenir-egrc3c</link>
+      <description>Winnie's first face to face encounter with a fairy goes horribly wrong.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-4-the-souvenir-0c0cc5a619ea5825d0ce309da64e00aa</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5934966829.mp3?updated=1658399998" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2019 12:47:16 +0000</pubDate>
+      <itunes:duration>944</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 3: Them</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-3-Them-egrc28</link>
+      <description>Winnie goes to the county fair where she discovers a secret colony of fairies.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-3-them-1552912976-579e90d58c30064bb1e7fe388b15f1c3</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6836391523.mp3?updated=1658399858" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Mar 2019 12:42:56 +0000</pubDate>
+      <itunes:duration>2195</itunes:duration>
+    </item>
+    <item>
+      <title>The Knights of Spatula Episode 5: Quest to Camp!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Knights-of-Spatula-Episode-5-Quest-to-Camp-egrc0v</link>
+      <description>King Karl has sent the Knights of Spatula on a simple quest to guard his trees. But when the Knights camp out in the Furry Forest they quickly realize their task won't be so easy after all.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/the-knights-of-spatula-episode-5-quest-to-camp-9397a66ee17cfba8ac4d749ef449387e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5627055464.mp3?updated=1658400143" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Mar 2019 18:15:30 +0000</pubDate>
+      <itunes:duration>1555</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 2: Whispers in the Attic</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-2-Whispers-in-the-Attic-egrc3e</link>
+      <description>Winnie and her best friend Jack play at their usual spot down by the river. But after being bitten by a venomous snake, Winnie's rushed home to Grandma Annie.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/winnie-and-the-pixienauts-episode-2-whispers-in-the-attic-09c2d1551679accaeac9dc4ecff96eac</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6221737748.mp3?updated=1658400166" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Feb 2019 11:30:00 +0000</pubDate>
+      <itunes:duration>1749</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 18: Pep the Peppermint Fairy</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-18-Pep-the-Peppermint-Fairy-egrc3o</link>
+      <description>Santa has two groups of helpers at the North Pole, the Gruff Elves who build the toys and the Peppermint Fairies who make the treats for the stockings. Once their work is done, Santa takes their creations and makes his Christmas deliveries. But this year, one of the Peppermint Fairies finds himself in Santa's bag. When Santa becomes weary from the journey, it's up to little Pep to step in and use his magic to save Christmas.</description>
+      <guid isPermaLink="false">purplerocketpodcast.podbean.com/life-episode-18-pep-the-peppermint-fairy-575a010e2b5c4f45f8fc62fc1f6666d7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8486371686.mp3?updated=1658400174" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Jan 2019 00:02:48 +0000</pubDate>
+      <itunes:duration>1952</itunes:duration>
+    </item>
+    <item>
+      <title>Winnie and the Pixienauts Episode 1: The Orchid</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winnie-and-the-Pixienauts-Episode-1-The-Orchid-egrc09</link>
+      <description>Winnie introduces herself and describes the first time she'd heard about fairies.</description>
+      <guid isPermaLink="false">e2b69e817b3d44c59cae9da9c96f22d0</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4100349470.mp3?updated=1658399881" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jan 2019 19:25:00 +0000</pubDate>
+      <itunes:duration>985</itunes:duration>
+    </item>
+    <item>
+      <title>The Knights of Spatula Episode 4: The King's Ball</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Knights-of-Spatula-Episode-4-The-Kings-Ball-egrc1b</link>
+      <description>Sir Splatterton and Abbey go to the ball together. But their lovely evening takes an unexpected turn when Prince Theodore, the prince Splat defeated in the jousting match, crashes the dance and seeks revenge.</description>
+      <guid isPermaLink="false">91f3ae0b5bc2432ca36c624a85b6be19</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6643379189.mp3?updated=1658400134" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jan 2019 19:22:00 +0000</pubDate>
+      <itunes:duration>1242</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 21: From the Dust</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-21-From-the-Dust-egrc0n</link>
+      <description>The cadets salvage what they can from their battle with the Exiles and make plans for the future.</description>
+      <guid isPermaLink="false">9e4daa6b78134ad597694c9074caef9e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1853735837.mp3?updated=1658400185" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Nov 2018 19:31:00 +0000</pubDate>
+      <itunes:duration>2043</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 21 Boone Vs The Dragon Part 2 - Globe Choppers</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-21-Boone-Vs-The-Dragon-Part-2---Globe-Choppers-egrc4c</link>
+      <description>The twins and their grandparents jump from country to country in an attempt to destroy all of the Dragon's magical globes.</description>
+      <guid isPermaLink="false">6d62b68176994fd7b28edd7698a4d29d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7082403918.mp3?updated=1658400189" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Nov 2018 18:34:00 +0000</pubDate>
+      <itunes:duration>2312</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 20: Under the Willow Tree</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-20-Under-the-Willow-Tree-egrc3s</link>
+      <description>Will and his family make an important discovery under their willow tree and set out to rebuild their kingdom.</description>
+      <guid isPermaLink="false">83ecf9af3fb94e3c8df1476d4c4043aa</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6568574030.mp3?updated=1658400171" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Nov 2018 06:45:00 +0000</pubDate>
+      <itunes:duration>1881</itunes:duration>
+    </item>
+    <item>
+      <title>The Knights of Spatula Episode 3: The Joust!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Knights-of-Spatula-Episode-3-The-Joust-egrc0e</link>
+      <description>King Karl holds a special jousting match to determine what knight is worthy of taking his daughter, Princess Pepper, to the annual ball. Convinced this is his chance to woo the princess, Sir Splatterton enters the competition.</description>
+      <guid isPermaLink="false">9cbed862f6c84fe6bb0295ed39e52c80</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6820598526.mp3?updated=1658400135" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Oct 2018 17:56:00 +0000</pubDate>
+      <itunes:duration>1344</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 20: Fallen</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-20-Fallen-egrc32</link>
+      <description>To avoid becoming slaves to The Doctor and his academy, the cadets and their parents confront the Exiles in a battle for their future.</description>
+      <guid isPermaLink="false">6e20afbc62d04dd0a0b6013d02de8497</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3136751481.mp3?updated=1658400181" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Oct 2018 01:09:00 +0000</pubDate>
+      <itunes:duration>1962</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 20: Boone VS Dragon Part I</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-20-Boone-VS-Dragon-Part-I-egrc2e</link>
+      <description>Decked out in their special samurai gear, the Boone family heads to The Dragon's headquarters to stop them for good.</description>
+      <guid isPermaLink="false">b55debdc8e164de18a73472c9d6f1023</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2785599387.mp3?updated=1658400165" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Oct 2018 01:04:00 +0000</pubDate>
+      <itunes:duration>1781</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 19: The Black Sphere</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-19-The-Black-Sphere-egrc19</link>
+      <description>Doug and the cadets flee the Academy of Exiles only to come across a giant black sphere that is sucking all light and warmth from the neighboring worlds.</description>
+      <guid isPermaLink="false">bbaa0884d0b5443da2ea825984f30077</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6486615837.mp3?updated=1658399868" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 11:00:00 +0000</pubDate>
+      <itunes:duration>2060</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 18: The Academy of Exiles</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-18-The-Academy-of-Exiles-egrc3p</link>
+      <description>The Space Train and its cadets are captured by the Exiles and taken to witness the construction of The Doctor's latest project, The Academy of Exiles. The deadline for the cadets to enroll has arrived and The Doctor plans to do everything in his power to make sure they join him.</description>
+      <guid isPermaLink="false">5807d0cc056245c8aa1bb51d3bb40e31</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4790052837.mp3?updated=1658399864" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 10:00:00 +0000</pubDate>
+      <itunes:duration>2254</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 17: Deadline</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-17-Deadline-egscce</link>
+      <description>The cadets receive a distress signal from the planet Grom. Every day, a deadly laser line beams down from the sky and creeps towards the Gromlers’ capital city. If the Gromlers don’t gather enough precious minerals by the deadline the laser will reach the city. Doug and the cadets must find a way to stop the laser and find out who’s behind it. (Duration: 30:28). Theme music by Kevin Macleod – Incompetech.com.</description>
+      <guid isPermaLink="false">c334a7de-7ba5-4b6d-b62d-f9b2d2feb006</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8888094318.mp3?updated=1658400181" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 09:00:00 +0000</pubDate>
+      <itunes:duration>2092</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 16: Down the Hole</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-16-Down-the-Hole-egrc30</link>
+      <description>Doug and the cadets learn about black holes as they're faced with a very difficult decision - destroy the Norb so that The Doctor can't get his hands on it, or keep it so that they can use the extra power against him? Find out in this week's episode!</description>
+      <guid isPermaLink="false">1c881458bc654cd5996c75136f261e81</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4336285006.mp3?updated=1658400186" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 08:00:00 +0000</pubDate>
+      <itunes:duration>2076</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 19: Battle of Emerald Creek</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-19-Battle-of-Emerald-Creek-egrc4t</link>
+      <description>Will and his people defend themselves against Timothy Toad and his Dark Army in a battle over Emerald Creek.</description>
+      <guid isPermaLink="false">f5ee0c804c7a4515a8a9b5ad1c411461</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1188511120.mp3?updated=1658400183" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:21:00 +0000</pubDate>
+      <itunes:duration>2145</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 19: Japan and the Four Samurai</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-19-Japan-and-the-Four-Samurai-egrc50</link>
+      <description>Grandma takes Grandpa and the twins to Japan where they must track down the armor of the Four Samurai in order to defeat The Dragon.</description>
+      <guid isPermaLink="false">af25168e60ac4fb88955049443e0f1bb</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2296398564.mp3?updated=1658400186" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:20:00 +0000</pubDate>
+      <itunes:duration>2209</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 18: Be Ye Warned</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-18-Be-Ye-Warned-egrc33</link>
+      <description>War is at the doorstep of the Daffodil Kingdom and Will finds himself in the fortunate position of being able to warn his clan of the imminent attack. But will they be ready to face the Dark?</description>
+      <guid isPermaLink="false">9c2e3dcda1be442dbfd18ae8c4ef6192</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6505680097.mp3?updated=1658400175" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:19:00 +0000</pubDate>
+      <itunes:duration>1848</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 18: Eleanor</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-18-Eleanor-egrc1d</link>
+      <description>This week we get to meet Grandma Boone! Grandpa and the twins hear all about Grandma Boone's adventures and find out where she's been.</description>
+      <guid isPermaLink="false">df9e9055dd3a464db91369bdd6ef545d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8628913268.mp3?updated=1658400166" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:18:00 +0000</pubDate>
+      <itunes:duration>1698</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 17: Storm Within</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-17-Storm-Within-egrc2q</link>
+      <description>Timothy toad has captured Will and Magborne and plans to take them back to The Daffodil Kingdom. But on their way across The Black Sea a powerful storm rolls in.</description>
+      <guid isPermaLink="false">3f82a4ad608b49b49b99e0deda9f5208</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2476736722.mp3?updated=1658399911" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:17:00 +0000</pubDate>
+      <itunes:duration>2163</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 17: The Tomato Smash</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-17-The-Tomato-Smash-egrc0g</link>
+      <description>Millie Turner wants to spend every minute of summer with her friends and avoid her quirky family. But when it comes time for her favorite family tradition, a game of tomato baseball, she's torn between whether to go to a friend's tea party or play in the big game.</description>
+      <guid isPermaLink="false">ef75f1b1ebd4459fbb67bdd21c558464</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4102913472.mp3?updated=1658400162" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:17:00 +0000</pubDate>
+      <itunes:duration>1600</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 17: Egypt and the Pharaoh's Treasure</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-17-Egypt-and-the-Pharaohs-Treasure-egrc3u</link>
+      <description>Grandpa and the twins head to Egypt where they must stop The Dragon from stealing the treasure from Pharaoh Seti's tomb.</description>
+      <guid isPermaLink="false">11e393f7b2ec4612bdc0b733c3fefb6e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9309320436.mp3?updated=1658400184" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:16:00 +0000</pubDate>
+      <itunes:duration>2095</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 16: Friends and Foes</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-16-Friends-and-Foes-egrc10</link>
+      <description>Before fleeing the Temples of Light, Will and his family have a surprise encounter with someone from Emerald Creek.</description>
+      <guid isPermaLink="false">c612703589b6472bab4448434e4b8569</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2435916363.mp3?updated=1658400161" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:15:00 +0000</pubDate>
+      <itunes:duration>1623</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 16: The Bully Bus</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-16-The-Bully-Bus-egrc0j</link>
+      <description>Braden learns how to deal with bullies as he magically jumps into the shoes of someone who's experiencing it firsthand.</description>
+      <guid isPermaLink="false">cca11ba1480845ad9228e5c5359689f5</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8409409861.mp3?updated=1658400166" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:15:00 +0000</pubDate>
+      <itunes:duration>1593</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 16: Trouble in the South Pacific Part 2</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-16-Trouble-in-the-South-Pacific-Part-2-egrc4u</link>
+      <description>Suzie and Sawyer finish their adventure in the South Pacific in this exciting part 2 climax to last week's story. If you haven't heard it yet, be sure to check out Part 1 of this story before listening.</description>
+      <guid isPermaLink="false">017641003b684c498c183bb4242d2a7e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8048337210.mp3?updated=1658399948" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:14:00 +0000</pubDate>
+      <itunes:duration>2076</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 15: Trouble in the South Pacific Part 1</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-15-Trouble-in-the-South-Pacific-Part-1-egrc0o</link>
+      <description>Suzie and Sawyer go on an adventure to the South Pacific where they must stop The Dragon from erupting the islands' volcanoes.</description>
+      <guid isPermaLink="false">4d0c4beb9c4d4b80ab8b203c2623b10d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1506108124.mp3?updated=1658400178" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:13:00 +0000</pubDate>
+      <itunes:duration>1889</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 15: The Temples of Light</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-15-The-Temples-of-Light-egrc47</link>
+      <description>Will and his family explore the Temples of Light and learn what happened to Magborne.</description>
+      <guid isPermaLink="false">7b95a432ba124f0d9f2fc36e72a5c175</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2217108723.mp3?updated=1658400185" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:13:00 +0000</pubDate>
+      <itunes:duration>2179</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 15: Doctor's Orders</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-15-Doctors-Orders-egrc22</link>
+      <description>Doug and the cadets finally meet the leader of the Exiles, a man who calls himself The Doctor.</description>
+      <guid isPermaLink="false">d2020aa4d6c448c99a713a9f7e787cc0</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2776611225.mp3?updated=1658400187" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:12:00 +0000</pubDate>
+      <itunes:duration>2077</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings Episode 14: Light at the End of the Tunnel</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-Episode-14-Light-at-the-End-of-the-Tunnel-egrc24</link>
+      <description>Will and his family make it to the Rainbow Ridge and it is full of surprises...both good and bad.</description>
+      <guid isPermaLink="false">d12bbe40a89dd1f6ec73eef73a7120d8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4267837111.mp3?updated=1658400180" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:12:00 +0000</pubDate>
+      <itunes:duration>1910</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 15: Lisa Learns to Listen</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-15-Lisa-Learns-to-Listen-egrc3d</link>
+      <description>Lisa has big powerful ears that can hear things from far away. She dreams of using her special gift to become the next great superhero. But to become the great hero she was meant to be, she must first learn the importance of being a good listener.</description>
+      <guid isPermaLink="false">3d2856452757412cbe96cdd4ed1d974e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8174291092.mp3?updated=1658400173" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:12:00 +0000</pubDate>
+      <itunes:duration>1694</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 14: Reflection of the Stars</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-14-Reflection-of-the-Stars-egrc0r</link>
+      <description>The cadets follow the ships from Mudro to a hidden mirror planet that reflects the stars around it. There they meet copies of themselves as they try to figure out who was stealing soil from the Mudro people.</description>
+      <guid isPermaLink="false">3f857f05d80d54218448c0752fd0405c</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8290555367.mp3?updated=1658400190" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:11:00 +0000</pubDate>
+      <itunes:duration>1985</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 13: The Pass</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-13-The-Pass-egrc4g</link>
+      <description>Will discovers a new power as he and his family journey through The Pass, a treacherous canyon full of Jumping Rocks.</description>
+      <guid isPermaLink="false">a220ed009a7bc20227fef439904eaf2e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1235522947.mp3?updated=1658400185" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:09:00 +0000</pubDate>
+      <itunes:duration>2058</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 14: A Slice of Italy</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-14-A-Slice-of-Italy-egrc2f</link>
+      <description>Grandpa Boone takes the twins on a trip to Italy to give them a taste of real pizza. But will it be enough to impress Sawyer who can't stand pizza? Find out in this episode of Grandpa's Globe!</description>
+      <guid isPermaLink="false">bf6f59d463614df7b5caa4bccc7a7c05</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7927560787.mp3?updated=1658400182" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 07:00:00 +0000</pubDate>
+      <itunes:duration>1993</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 13: England - A Royal Adventure</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-13-England---A-Royal-Adventure-egrc39</link>
+      <description>Sawyer and Suzie must stop The Dragon from getting their hands on the royal crown and taking control of England.</description>
+      <guid isPermaLink="false">8ba9e0cadddf8ef4b3a4897fb2919769</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7806129183.mp3?updated=1658400200" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Oct 2018 06:00:00 +0000</pubDate>
+      <itunes:duration>2149</itunes:duration>
+    </item>
+    <item>
+      <title>The Knights of Spatula Episode 2: Rats!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Knights-of-Spatula-Episode-2-Rats-egrc12</link>
+      <description>Rodents have taken over Spatulot and it's up to you and the knights to stop them!</description>
+      <guid isPermaLink="false">c6f2d26649d243dd9f33ca7b5cefc61a</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1700417588.mp3?updated=1658400164" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Sep 2018 03:58:00 +0000</pubDate>
+      <itunes:duration>1562</itunes:duration>
+    </item>
+    <item>
+      <title>The Knights of Spatula Episode 1: Banditouies</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/The-Knights-of-Spatula-Episode-1-Banditouies-egrc0i</link>
+      <description>The Knights of Spatula embark on their first adventure and they need your help! So grab your spatula and join the ranks as you participate in this interactive story!</description>
+      <guid isPermaLink="false">6009b76bedf5418ebf564d6a3b9cb66f</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3344953747.mp3?updated=1658400164" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Aug 2018 22:30:00 +0000</pubDate>
+      <itunes:duration>1515</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 14: Manners Manor</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-14-Manners-Manor-egrc1p</link>
+      <description>Jake's terrible manners are driving his family crazy! Desperate and running out of options, Jake's parents send him off to The Manners Manor, a hoity-toity school that teaches kids good manners. But Jake won't change his slobbish ways without a fight! Does the fancy school have what it takes to make Jake give up his bad habits? Find out in this episode of Life!</description>
+      <guid isPermaLink="false">5a0cbbe5bbf1b58463c5bb861b0e637c</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5775181547.mp3?updated=1658400040" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 May 2018 01:48:00 +0000</pubDate>
+      <itunes:duration>2187</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 13: The Big Fat Fail</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-13-The-Big-Fat-Fail-egrc0l</link>
+      <description>After Mikey and Amy fail big time on their school project, they're sent to The Land of Failures where they learn an important lesson about overcoming setbacks.</description>
+      <guid isPermaLink="false">bf0f167f1ca2a56c7d3be669132e5cf3</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1017921361.mp3?updated=1658400184" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Apr 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>1890</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 13: The Space Farmer</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-13-The-Space-Farmer-egrc55</link>
+      <description>After the power goes out in the Cosmic Cafe, the cadets are forced to stop at the planet Mudro for supplies. There's just one problem, Mudro has no food...</description>
+      <guid isPermaLink="false">20fc6869abb79fffef8894d598d0376b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3147418406.mp3?updated=1658400186" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Apr 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>1937</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 12: Colorful India</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-12-Colorful-India-egrc4f</link>
+      <description>Grandpa Boone's been having a rough day. So to cheer him up, Sawyer and Suzie take him on an exciting trip to India.</description>
+      <guid isPermaLink="false">cf57f9685fb08c87b1f440a41fa9c179</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1000251631.mp3?updated=1658400188" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Mar 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2014</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 12: The Pixienauts</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-12-The-Pixienauts-egrc23</link>
+      <description>Will and his family are introduced to their first Pixienaut - a man by the name of Theodore Knight who is the human ambassador to the fairies. During their first encounter, Will learns something new about himself.</description>
+      <guid isPermaLink="false">95b833b105fe9444c1659cba2f6b8512</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2036231917.mp3?updated=1658400175" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Mar 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>1725</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 12: Diva</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-12-Diva-egrc4s</link>
+      <description>The cadets are captured by Diva, an Exile obsessed with her own celebrity and one of Goro's former students.</description>
+      <guid isPermaLink="false">33e045df5fa4542b3ee7cdfdf4fc512d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2631239456.mp3?updated=1658399929" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Mar 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>2201</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 11: A G'Day in Australia</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-11-A-GDay-in-Australia-egrc1g</link>
+      <description>Sawyer and Suzie travel to Australia where they must stop The Dragon from collecting poisonous animals.</description>
+      <guid isPermaLink="false">76c655349c4150bf066f3ce894fef105</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2991133101.mp3?updated=1658400201" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Feb 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>2278</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 11: The Dandelion Kingdom</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-11-The-Dandelion-Kingdom-egrc4l</link>
+      <description>Will and his family reach the Dandelion Kingdom and seek help from  their most trusted allies only to find more trouble waiting for them.</description>
+      <guid isPermaLink="false">999a3d7872013a343293104cb8b8279f</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6673353217.mp3?updated=1658399952" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Feb 2018 19:43:00 +0000</pubDate>
+      <itunes:duration>1900</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 11: Francine and the Frowny Brownies</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-11-Francine-and-the-Frowny-Brownies-egrc18</link>
+      <description>For as long as she could remember, Francine and her entire town have always frowned. They can't help it. But as Francine takes it upon herself to solve the mystery, she discovers the contagious power of smiling.</description>
+      <guid isPermaLink="false">ffeec01a6f395796c7fbd1085aa7bbf9</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8627797239.mp3?updated=1658399949" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Feb 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>1631</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 11: Goro</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-11-Goro-egrc3j</link>
+      <description>Doug and the cadets learn about their robot conductor's past.</description>
+      <guid isPermaLink="false">43c1ff36141fac49669fc3bff136cc9e</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4413841792.mp3?updated=1658400180" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Feb 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>1790</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 10: Mexico</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-10-Mexico-egrc34</link>
+      <description>Grandpa and the twins go on a wild adventure through Mexico as they try to get the guidebook back.</description>
+      <guid isPermaLink="false">9fa36df67bfbdc31aaae9e3669e3da8f</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4270837436.mp3?updated=1658400224" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jan 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>2426</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 10 Pixie Fire</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-10-Pixie-Fire-egrc2v</link>
+      <description>When The Dark reaches the Cacti Clan it's up to Will to save his family with a little help from his pixie power.</description>
+      <guid isPermaLink="false">0ee36bc004b53a1ed9ef9ebdeed6d8e9</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6496611055.mp3?updated=1658400186" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jan 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>1915</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 10: The Sorry Sisters Society</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-10-The-Sorry-Sisters-Society-egrc1u</link>
+      <description>When Sofie moves to a new town she gets invited to be part of an exclusive group of friends that call themselves The Sorry Sisters Society. During her first day in the club, Sofie learns what it truly means to be sorry.</description>
+      <guid isPermaLink="false">c9e5fadc17e84cb5e194303beb5eff46</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5642819341.mp3?updated=1658399926" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jan 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>1484</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 10: Brynthia's Secret</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-10-Brynthias-Secret-egrc2l</link>
+      <description>Doug and the cadets follow a distress signal to the mysterious planet Brynthia where they face their greatest obstacle yet.</description>
+      <guid isPermaLink="false">76934973738ac5e0463eeaafb6c59030</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM5723073094.mp3?updated=1658400199" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jan 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>2238</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 9: Switzerland and the Coo Coo Cocoa Man</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-9-Switzerland-and-the-Coo-Coo-Cocoa-Man-egrc1l</link>
+      <description>Sawyer and Suzie go on a chocolate filled adventure through Switzerland!</description>
+      <guid isPermaLink="false">227276d8180230ece49d817d30bf01a6</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9169195902.mp3?updated=1658399968" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jan 2018 17:00:00 +0000</pubDate>
+      <itunes:duration>2207</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 9: The Deserts of Dread</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-9-The-Deserts-of-Dread-egrc3t</link>
+      <description>Will ventures into the Deserts of Dread where he must find someone in the Cacti Clan who can help him restore his parents' memory.</description>
+      <guid isPermaLink="false">8ee3ada36ecb341fab6ec7f60b3bd2ef</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8568684951.mp3?updated=1658400213" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Dec 2017 17:00:00 +0000</pubDate>
+      <itunes:duration>2443</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 9: The Christmas Candle</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-9-The-Christmas-Candle-egrc3g</link>
+      <description>Holly Hannigan's mountain town of Frozen Falls becomes a winter wonderland during Christmas time. But things take a turn for the worse when a winter storm sweeps through on Christmas Eve and traps the Wagner family in their cabin. It's up to Holly to save Christmas.</description>
+      <guid isPermaLink="false">699044435d17e86cf9f1796b4ae8b9d8</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3559371251.mp3?updated=1658400168" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Dec 2017 17:00:00 +0000</pubDate>
+      <itunes:duration>1423</itunes:duration>
+    </item>
+    <item>
+      <title>BONUS EPISODE - Nicky: A Christmas Poem</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/BONUS-EPISODE---Nicky-A-Christmas-Poem-egrc1t</link>
+      <description>Nicky spreads Christmas cheer throughout town with his little homemade wreaths.</description>
+      <guid isPermaLink="false">ca44f3900bca0bc1ab32d8746f6b68d7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1522574366.mp3?updated=1658400085" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Dec 2017 03:09:00 +0000</pubDate>
+      <itunes:duration>670</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 9: The Academy of Wanderers</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-9-The-Academy-of-Wanderers-egrc15</link>
+      <description>Doug and the cadets head to the Academy of Wanderers to retrieve important documents before the Exiles can get their hands on them.</description>
+      <guid isPermaLink="false">df9689f556106a9bc1188610705380a3</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4570443007.mp3?updated=1658399990" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Dec 2017 17:30:00 +0000</pubDate>
+      <itunes:duration>1953</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 8: A Visit to Bethlehem</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-8-A-Visit-to-Bethlehem-egrc2i</link>
+      <description>The globe sends the twins to Bethlehem to teach them the true meaning of Christmas.</description>
+      <guid isPermaLink="false">de0243f61422951917e5efc73e803a4b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8992146722.mp3?updated=1658400172" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Dec 2017 17:00:00 +0000</pubDate>
+      <itunes:duration>1339</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 12: The Booger Burglar - Don't Pick Your Nose!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-12-The-Booger-Burglar---Dont-Pick-Your-Nose-egrc0q</link>
+      <description>Sick and tired of being picked all the time, Miles' nose takes matters into his own nostril by trapping Miles' finger and holding it hostage.</description>
+      <guid isPermaLink="false">e24d1b7808a6dcf8a04a68a3e733c731</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8528731943.mp3?updated=1658400185" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Nov 2017 23:00:00 +0000</pubDate>
+      <itunes:duration>1627</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 8: The Bungabo</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-8-The-Bungabo-egrc25</link>
+      <description>Will confronts the Bungabo in order to win the trust of the Daffodil Queen.</description>
+      <guid isPermaLink="false">cf32ddef84b446ca23025c65dd1d22eb</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3794124197.mp3?updated=1658400184" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Nov 2017 17:00:00 +0000</pubDate>
+      <itunes:duration>1577</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 8: Augustus and the Great Friend Making Machine</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-8-Augustus-and-the-Great-Friend-Making-Machine-egrc2a</link>
+      <description>Augustus, a seven year old genius, tries to short cut the friend-making process by creating a machine that makes friends for him. But it isn't long before Augustus' new invention goes haywire and he's forced to make real friends the old fashioned way.</description>
+      <guid isPermaLink="false">6ec9d55755b0f410fab7ad81ca89dfa7</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2801592138.mp3?updated=1658399953" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Nov 2017 17:30:00 +0000</pubDate>
+      <itunes:duration>1442</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 8: Blub and the Bubblers</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-8-Blub-and-the-Bubblers-egrc2k</link>
+      <description>Doug and the Cadets make a stop at the planet Blub - a world full of bubbles! There they must find a way to help the Bubblers reconnect with each other and enjoy the amazing world they have.</description>
+      <guid isPermaLink="false">b53816f49602090c876b722e16e23a15</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3833028966.mp3?updated=1658400195" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Nov 2017 20:03:00 +0000</pubDate>
+      <itunes:duration>2070</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 7: South Africa and the Hungry Hungry Hippos</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-7-South-Africa-and-the-Hungry-Hungry-Hippos-egrc2t</link>
+      <description>Sawyer and Suzie experience South Africa as they set out to rescue their new friend's baby hippo from poachers.</description>
+      <guid isPermaLink="false">9e1a582b1720871f40689f1d3846f29b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2615444358.mp3?updated=1658400198" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Nov 2017 17:30:00 +0000</pubDate>
+      <itunes:duration>1766</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 7: The Tulip Kingdom</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-7-The-Tulip-Kingdom-egrc45</link>
+      <description>Will and the group escape Kroe and stumble upon The Daffodil Kingdom.</description>
+      <guid isPermaLink="false">91cbf9448820dd12bc1f4b791ca95599</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1955685399.mp3?updated=1658400199" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Oct 2017 16:30:00 +0000</pubDate>
+      <itunes:duration>1900</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 7: Hal's Halloween</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-7-Hals-Halloween-egrc3q</link>
+      <description>Every rat in New York City loves Halloween. Every rat except for little Hal Harrison that is. But this year is going to be different. The Harrison's are about to have a Halloween they'll never forget.</description>
+      <guid isPermaLink="false">2640f0515cf8731d8fb38f02fd094b08</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4614095047.mp3?updated=1658400171" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Oct 2017 16:30:00 +0000</pubDate>
+      <itunes:duration>1310</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 7: The Caboose</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-7-The-Caboose-egrc43</link>
+      <description>Doug and the cadets join forces to try to sneak into the forbidden caboose.</description>
+      <guid isPermaLink="false">e71451162d93eb353bd9c6cc8b32bb72</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1232303701.mp3?updated=1658400191" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Oct 2017 17:57:00 +0000</pubDate>
+      <itunes:duration>1845</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 6 Lost in Brazil</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-6-Lost-in-Brazil-egrc4i</link>
+      <description>Grandpa treats Sawyer and Suzie to a fun vacation in Brazil. But the trip takes a turn for the worse when Suzie loses her new bracelet.</description>
+      <guid isPermaLink="false">d67ba7ce8ce76f591cb90b91a2f7b7ab</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9904024492.mp3?updated=1658400195" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2050</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 6: Kroe</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-6-Kroe-egrc2m</link>
+      <description>Will finally reaches Kroe where he'll try to find a cure to his poisonous Ink Eel bite.</description>
+      <guid isPermaLink="false">c5e474eb9b9bee7d5ac45091cbb0bee4</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7215461839.mp3?updated=1658400196" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Oct 2017 16:30:00 +0000</pubDate>
+      <itunes:duration>1984</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 6: Liz the Lazy Lizard</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-6-Liz-the-Lazy-Lizard-egrc1i</link>
+      <description>Liz is one lazy lizard. Unlike the rest of the land iguanas in the Galapagos Islands, who hunt for food and enjoy the beach, she prefers to sit around and do nothing. But as soon as a new predator threatens her colony, she's finally forced to get up and do something with herself.</description>
+      <guid isPermaLink="false">5bfdd14412c4af86d431f9a3f90ff12b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6806260253.mp3?updated=1658400164" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Sep 2017 16:30:00 +0000</pubDate>
+      <itunes:duration>1497</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 6: JoJo MeJo and the Little Things</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-6-JoJo-MeJo-and-the-Little-Things-egrc1s</link>
+      <description>Doug and the cadets must save the planet Dobo from another Class Exile - JoJo MeJo! But doing so is proving to be no small task.</description>
+      <guid isPermaLink="false">b51c459c098314923df2ac85dd13f490</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2130397841.mp3?updated=1658400197" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Sep 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>1854</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 5: Bring out the Wurst!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-5-Bring-out-the-Wurst-egrc36</link>
+      <description>Sawyer and Suzie go on an exciting adventure through Germany where once again they find themselves taking on The Dragon.</description>
+      <guid isPermaLink="false">44ca626fb3209b88fbfc8a896955c743</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM7492099795.mp3?updated=1658400077" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Sep 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>1821</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 5: Fighting Waves</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-5-Fighting-Waves-egrc0t</link>
+      <description>Magborne completes Will's training by teaching him how to use Pixie magic.</description>
+      <guid isPermaLink="false">69b7897abeaff3e05bfa5fb7d8853343</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2972496855.mp3?updated=1658400180" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Sep 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>1800</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 5: Pete's Eats</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-5-Petes-Eats-egrc1n</link>
+      <description>Josh has a bad habit of eating junk food. But thanks to a magical pizza buffet, he learns the hard way that you are what you eat.</description>
+      <guid isPermaLink="false">ca695151e2fc61dfce9a2156c1301a38</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3062299741.mp3?updated=1658400154" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Aug 2017 16:30:00 +0000</pubDate>
+      <itunes:duration>1190</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 5: The Orion Riders</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-5-The-Orion-Riders-egrc2u</link>
+      <description>Doug and the cadets finally get answers from Goro. But just as they start to take it all in, they're forced to compete in the Orion Pass Race.</description>
+      <guid isPermaLink="false">de3e44afeeaeb9a82d28bc48ef5d5542</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9441281572.mp3?updated=1658400197" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Aug 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2198</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 4: The Zaxlin</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-4-The-Zaxlin-egrc2b</link>
+      <description>Will encounters new friends and foes as he begins his training with Magborne aboard the Jolly Leafer.</description>
+      <guid isPermaLink="false">e414726b4166789d951b9402adeae545</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3430367184.mp3?updated=1658400037" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Aug 2017 17:40:00 +0000</pubDate>
+      <itunes:duration>2647</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 4: Honest Lee</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-4-Honest-Lee-egrc2g</link>
+      <description>Honest Lee is the most honest person in all the kingdom. But when he decides to finally tell one little lie to impress the princess things snowball out of control.</description>
+      <guid isPermaLink="false">4b1bd75c4bf8d92aac448a44809d3f35</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9550436553.mp3?updated=1658399985" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Jul 2017 23:50:00 +0000</pubDate>
+      <itunes:duration>1658</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 4: Comet Get'Em</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-4-Comet-GetEm-egrc3a</link>
+      <description>Dallas is being held prisoner on a comet! His fellow cadets must come together and find a way to rescue him.</description>
+      <guid isPermaLink="false">ee4ee44b7094a21caae0448df00ee67d</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6194973834.mp3?updated=1658400104" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Jul 2017 01:13:00 +0000</pubDate>
+      <itunes:duration>2594</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 3: Russia - Putin it all on the Line</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-3-Russia---Putin-it-all-on-the-Line-egrc35</link>
+      <description>A famous painting has been stolen from the Hermitage Museum in Russia and it's up to Sawyer and Suzie to get it back!</description>
+      <guid isPermaLink="false">96f60a5ec21544e1eaa9a1c90a45c1e3</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9859314073.mp3?updated=1658400127" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Jul 2017 18:44:00 +0000</pubDate>
+      <itunes:duration>2426</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 3: Stranger in the Jelly Tree Forest</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-3-Stranger-in-the-Jelly-Tree-Forest-egrc52</link>
+      <description>Will and his baby sister brave the Jelly Tree Forest, desperately looking for someone who can lead them to the Temples of Light.</description>
+      <guid isPermaLink="false">c7507fad698403b3ff1b9f35de87075b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM8889214185.mp3?updated=1658400212" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jul 2017 05:45:00 +0000</pubDate>
+      <itunes:duration>1979</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 3: Gabby and the Gratidudes</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-3-Gabby-and-the-Gratidudes-egrc3i</link>
+      <description>Gabby, an aspiring rock star, learns the importance of expressing gratitude.</description>
+      <guid isPermaLink="false">23c93956e507124c11a57820dfa9cc18</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1607130618.mp3?updated=1658400182" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Jul 2017 19:57:00 +0000</pubDate>
+      <itunes:duration>1388</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 3: Mars and the Well of Being</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-3-Mars-and-the-Well-of-Being-egrc2h</link>
+      <description>Doug and the cadets embark on their first mission to Mars! There they must find a way to save the Martians' dwindling water supply from the Well of Being.</description>
+      <guid isPermaLink="false">0d518a1c92cdfe725803e79df280161b</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM9998311808.mp3?updated=1658400224" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 May 2017 23:04:00 +0000</pubDate>
+      <itunes:duration>2450</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 2: Oh Canada!</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-2-Oh-Canada-egrc2d</link>
+      <description>Canada's pretty great, eh! Follow Sawyer and Suzie's incredible trip through Canada as they explore everything from French Quebec to Jasper National Park.</description>
+      <guid isPermaLink="false">1686e841a4af963f33363bd49df94ae1</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM2896613801.mp3?updated=1658400210" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 May 2017 22:00:00 +0000</pubDate>
+      <itunes:duration>2022</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 2: Same as Sam</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-2-Same-as-Sam-egrc1o</link>
+      <description>Tyson Bagley has a once in a lifetime opportunity to be someone else for a day. But when he chooses to be the coolest kid in school things don't exactly go according to plan.</description>
+      <guid isPermaLink="false">98d32577b2eae2ff422e4d975a31f7ee</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6119175590.mp3?updated=1658400062" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 May 2017 22:00:00 +0000</pubDate>
+      <itunes:duration>1522</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 2: Beyond the Fragrant Falls</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-2-Beyond-the-Fragrant-Falls-egrc2c</link>
+      <description>Willam and his family are on the move! Follow their journey as they make their way through the mystical Fragrant Falls.</description>
+      <guid isPermaLink="false">bb6c584dc188dad3d11bc9380321f311</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM4317418303.mp3?updated=1658400123" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 May 2017 22:00:00 +0000</pubDate>
+      <itunes:duration>2396</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 2: Gravity for Breakfast</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-2-Gravity-for-Breakfast-egrc40</link>
+      <description>Doug and the Cadets take their first trip to outer space and learn about gravity.</description>
+      <guid isPermaLink="false">0e1a9bb7448865fd72637fb0d3c90bff</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM1877841311.mp3?updated=1658400196" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 May 2017 22:00:00 +0000</pubDate>
+      <itunes:duration>1440</itunes:duration>
+    </item>
+    <item>
+      <title>Winglings under the Willow Tree Episode 1: Remember the Rain</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Winglings-under-the-Willow-Tree-Episode-1-Remember-the-Rain-egrc3l</link>
+      <description>Ever wondered what everyday life is like for a fairy? Willam Wingling will tell you all about it in our first adventure of Winglings under the Willow Tree.</description>
+      <guid isPermaLink="false">039ebf81df443987c15ba2e473769e32</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3015116524.mp3?updated=1658400206" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 May 2017 22:37:00 +0000</pubDate>
+      <itunes:duration>1840</itunes:duration>
+    </item>
+    <item>
+      <title>Life Episode 1: Dollar Billy</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Life-Episode-1-Dollar-Billy-egrc3k</link>
+      <description>Can you imagine what it would be like if your parents were literally made of money? Billy knows exactly what that's like. Find out what happens when his wish finally comes true.</description>
+      <guid isPermaLink="false">3ffc15083e6c8ff6e081ffb428c72a85</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3657787557.mp3?updated=1658400047" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 May 2017 22:28:00 +0000</pubDate>
+      <itunes:duration>1112</itunes:duration>
+    </item>
+    <item>
+      <title>Space Train Episode 1: The Purple Rocket</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Space-Train-Episode-1-The-Purple-Rocket-egrc2o</link>
+      <description>Doug's building skills are put to the test when he and his classmates have a soda bottle rocket competition at school.</description>
+      <guid isPermaLink="false">5ce36445035d6a12b7a0cec540d8b6b2</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM6218059134.mp3?updated=1658400051" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 May 2017 22:17:00 +0000</pubDate>
+      <itunes:duration>1076</itunes:duration>
+    </item>
+    <item>
+      <title>Grandpa's Globe Episode 1: Spain</title>
+      <link>https://anchor.fm/purple-rocket-podcast/episodes/Grandpas-Globe-Episode-1-Spain-egrc1e</link>
+      <description>Twins Sawyer and Suzie discover a magical globe in their grandpa's library that sends them on a wild adventure through Spain.</description>
+      <guid isPermaLink="false">58b277427fabed5023a5c97e0ecff526</guid>
+      <enclosure url="https://traffic.megaphone.fm/TNM3661050896.mp3?updated=1658400180" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 May 2017 21:27:00 +0000</pubDate>
+      <itunes:duration>1324</itunes:duration>
+    </item>
+  </channel>
+</rss>
