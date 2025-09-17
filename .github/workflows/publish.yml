@@ -2,19 +2,20 @@ name: Build & Publish RSS (nightly)
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # 08:00 UTC nightly
+    - cron: "0 8 * * *"   # nightly 08:00 UTC
   workflow_dispatch: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout main
-        uses: actions/checkout@v4
+    permissions:
+      contents: write   # allow pushes to the repo
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -26,27 +27,10 @@ jobs:
       - name: Build feed
         run: python build_feed.py
 
-      - name: Switch to gh-pages branch
-        run: |
-          git fetch origin gh-pages || true
-          if git show-ref --verify --quiet refs/heads/gh-pages; then
-            git checkout gh-pages
-          else
-            git checkout --orphan gh-pages
-            git reset --hard
-          fi
-
-      - name: Copy output to gh-pages root
-        run: |
-          cp -f rss.xml index.xml
-          # Keep rss.xml as canonical; index.xml is a convenience
-          git add rss.xml index.xml
-
-      - name: Commit & push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit rss.xml to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Publish nightly feed build $(date -u +"%Y-%m-%dT%H:%M:%SZ")" || echo "Nothing to commit"
-          git push origin HEAD:gh-pages
+          git add rss.xml
+          git commit -m "Update rss.xml $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push
