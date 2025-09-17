@@ -64,7 +64,7 @@ def main():
             ts, pub_iso = parse_pubdate(e)
             entries.append((ts, pub_iso, e))
 
-    entries.sort(key=lambda x: x[0])  # oldest → newest
+    entries.sort(key=lambda x: x[0], reverse=True)  # oldest → newest
 
     # items
     for _, pub_iso, e in entries:
