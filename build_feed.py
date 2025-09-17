@@ -59,4 +59,39 @@ def main():
             ts, pub_iso = parse_pubdate(e)
             entries.append((ts, pub_iso, e))
 
-    # if filter found nothing (name differenc
+    # if filter found nothing (name differences), fall back to all items
+    if len(entries) < MIN_ITEMS:
+        entries = []
+        for e in d.entries:
+            ts, pub_iso = parse_pubdate(e)
+            entries.append((ts, pub_iso, e))
+
+    # sort oldest -> newest
+    entries.sort(key=lambda x: x[0])
+
+    # write items
+    for _, pub_iso, e in entries:
+        fe = fg.add_entry()
+        fe.title(e.get('title', 'Untitled'))
+        fe.link(href=e.get('link') or d.feed.get('link') or 'https://purplerocketpodcast.com')
+        fe.description(e.get('summary') or e.get('subtitle') or '')
+        fe.pubDate(pub_iso)
+        guid = e.get('id') or e.get('guid') or (e.get('link') or '') + pub_iso
+        fe.guid(guid, permalink=False)
+
+        encs = getattr(e, 'enclosures', []) or []
+        if encs:
+            href = encs[0].get('href')
+            mime = encs[0].get('type', 'audio/mpeg')
+            length = encs[0].get('length') or '0'
+            if href:
+                fe.enclosure(href, length, mime)
+
+        itunes_duration = e.get('itunes_duration') or e.get('itunes:duration')
+        if itunes_duration:
+            fg.podcast.itunes_duration(itunes_duration)
+
+    fg.rss_file(OUTFILE, pretty=True)
+
+if __name__ == "__main__":
+    main()
