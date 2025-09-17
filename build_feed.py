@@ -1,4 +1,4 @@
-import os, time, requests, feedparser
+import time, requests, feedparser
 from feedgen.feed import FeedGenerator
 from dateutil import parser as dateparser
 
@@ -7,69 +7,66 @@ NEW_TITLE = "The Adventures of Pockets"
 CHANNEL_IMAGE = "https://purplerocketpodcast.com/wp-content/uploads/2022/11/Pockets-Final-Logo-e1685984603306.png"
 OUTFILE = "rss.xml"
 
-# --- tweak these if you want different filtering rules ---
-FILTER_ANY_KEYWORDS = ["pockets"]       # keep episodes whose title/summary includes any of these
-MIN_ITEMS = 1                            # fail-safe: publish even if only 1 match
-# ---------------------------------------------------------
+KEYWORDS = ["pockets", "the adventures of pockets"]  # case-insensitive match in title/summary/categories
 
 def parse_pubdate(entry):
     if getattr(entry, "published_parsed", None):
         ts = time.mktime(entry.published_parsed)
-        iso_s = time.strftime("%a, %d %b %Y %H:%M:%S %z", entry.published_parsed)
-        return ts, iso_s
+        rfc = time.strftime("%a, %d %b %Y %H:%M:%S %z", entry.published_parsed)
+        return ts, rfc
     if getattr(entry, "updated_parsed", None):
         ts = time.mktime(entry.updated_parsed)
-        iso_s = time.strftime("%a, %d %b %Y %H:%M:%S %z", entry.updated_parsed)
-        return ts, iso_s
-    for field in ("published", "pubDate", "updated"):
-        if getattr(entry, field, None):
+        rfc = time.strftime("%a, %d %b %Y %H:%M:%S %z", entry.updated_parsed)
+        return ts, rfc
+    for f in ("published", "pubDate", "updated"):
+        if getattr(entry, f, None):
             try:
-                dt = dateparser.parse(getattr(entry, field))
-                ts = dt.timestamp()
-                iso_s = dt.strftime("%a, %d %b %Y %H:%M:%S %z")
-                return ts, iso_s
+                dt = dateparser.parse(getattr(entry, f))
+                return dt.timestamp(), dt.strftime("%a, %d %b %Y %H:%M:%S %z")
             except Exception:
                 pass
     now = time.gmtime()
     return time.time(), time.strftime("%a, %d %b %Y %H:%M:%S +0000", now)
 
-def keep_entry(e):
-    text = (e.get("title","") + " " + e.get("summary","")).lower()
-    return any(k.lower() in text for k in FILTER_ANY_KEYWORDS)
+def matches_keywords(e):
+    hay = " ".join([
+        e.get("title",""),
+        e.get("summary",""),
+        e.get("subtitle",""),
+    ]).lower()
+    if getattr(e, "tags", None):
+        cats = " ".join([t.get("term","") for t in e.tags if isinstance(t, dict)])
+        hay += " " + cats.lower()
+    return any(k in hay for k in KEYWORDS)
 
 def main():
-    # fetch source
     xml = requests.get(SOURCE, timeout=30).text
     d = feedparser.parse(xml)
 
-    # build new channel
+    # channel
     fg = FeedGenerator()
     fg.load_extension('podcast')
     fg.title(NEW_TITLE)
     fg.link(href=d.feed.get('link', 'https://purplerocketpodcast.com'), rel='alternate')
     fg.description(d.feed.get('subtitle') or d.feed.get('description') or NEW_TITLE)
     fg.image(url=CHANNEL_IMAGE)
-    # also set itunes:image for podcast apps that prefer it
     fg.podcast.itunes_image(CHANNEL_IMAGE)
 
-    # filter + collect
+    # filter + sort
     entries = []
     for e in d.entries:
-        if keep_entry(e):
+        if matches_keywords(e):
             ts, pub_iso = parse_pubdate(e)
             entries.append((ts, pub_iso, e))
-
-    # if filter found nothing (name differences), fall back to all items
-    if len(entries) < MIN_ITEMS:
-        entries = []
+    # If nothing matched, comment out the next 4 lines if you prefer an empty feed instead of fallback
+    if not entries:
         for e in d.entries:
             ts, pub_iso = parse_pubdate(e)
             entries.append((ts, pub_iso, e))
 
-    # sort oldest -> newest
-    entries.sort(key=lambda x: x[0])
+    entries.sort(key=lambda x: x[0])  # oldest → newest
 
-    # write items
+    # items
     for _, pub_iso, e in entries:
         fe = fg.add_entry()
         fe.title(e.get('title', 'Untitled'))
@@ -87,9 +84,10 @@ def main():
             if href:
                 fe.enclosure(href, length, mime)
 
+        # item-level iTunes duration (if present)
         itunes_duration = e.get('itunes_duration') or e.get('itunes:duration')
         if itunes_duration:
-            fg.podcast.itunes_duration(itunes_duration)
+            fe.podcast.itunes_duration(itunes_duration)
 
     fg.rss_file(OUTFILE, pretty=True)
 
